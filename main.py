@@ -35,7 +35,7 @@ st.set_page_config(
 
 
 st.title("Video Summarizer Agent📽️")
-st.header("This app is powered by Gemini")
+st.header("This app is for video summaries")
 
 
 def initialize_agent():
